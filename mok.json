@@ -3,6 +3,27 @@
   "description": "",
   "artist": "",
   "author": "",
-  "cover": "https://cubari.moe/read/imgur/wU4Xn7M/",
-  "chapters": {}
+  "cover": "https://sun2-19.userapi.com/impg/bXq4REjDG_xmMWBTFg0xXLDMSpHeDBdsYwdc3Q/7o6RTJwaiE0.jpg?size=800x1335&quality=96&sign=56c95268ae29bd82bbdfc53a9f229c2f&type=album",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1678481777",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1678481808",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    }
+  }
 }
